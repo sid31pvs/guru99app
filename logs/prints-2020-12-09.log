@@ -1,0 +1,105 @@
+21:52:48.739 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+21:52:48.756 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+21:52:57.144 [main] DEBUG guru99.websiteTest.MobileSortingTest - Vefified the page title
+21:52:57.538 [main] INFO  guru99.websiteTest.MobileSortingTest - Web Browser closed
+04:39:17.175 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+04:42:27.335 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+04:48:18.266 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+04:48:39.912 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on mobile menu
+04:48:40.334 [main] DEBUG guru99.websiteTest.MobilePriceTest - browser is closed successfully
+04:48:56.385 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+04:49:18.226 [main] INFO  guru99.websiteTest.MobilePriceTest - price of sony Xperia on mobile page is : $100.00
+04:49:18.402 [main] DEBUG guru99.websiteTest.MobilePriceTest - browser is closed successfully
+04:49:34.271 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+04:50:29.277 [main] DEBUG guru99.websiteTest.MobilePriceTest - browser is closed successfully
+04:51:10.481 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+04:51:31.374 [main] INFO  guru99.websiteTest.MobilePriceTest - price of sony xperia is same on mobile page and details page
+04:51:31.481 [main] DEBUG guru99.websiteTest.MobilePriceTest - browser is closed successfully
+05:00:34.756 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+05:01:02.264 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on mobile menu
+05:01:02.593 [main] DEBUG guru99.websiteTest.MobilePriceTest - browser is closed successfully
+05:01:12.902 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+05:01:23.432 [main] INFO  guru99.websiteTest.MobilePriceTest - price of sony Xperia on mobile page is : $100.00
+05:01:23.549 [main] DEBUG guru99.websiteTest.MobilePriceTest - browser is closed successfully
+05:01:31.401 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+05:02:12.400 [main] DEBUG guru99.websiteTest.MobilePriceTest - browser is closed successfully
+05:47:14.524 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+05:47:22.968 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on mobile menu
+05:47:23.213 [main] DEBUG guru99.websiteTest.MobilePriceTest - browser is closed successfully
+05:47:39.464 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+05:47:43.753 [main] INFO  guru99.websiteTest.MobilePriceTest - price of sony Xperia on mobile page is : $100.00
+05:47:43.870 [main] DEBUG guru99.websiteTest.MobilePriceTest - browser is closed successfully
+05:47:53.270 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+05:48:04.314 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on sony Xperia mobile
+05:48:04.811 [main] INFO  guru99.websiteTest.MobilePriceTest - price of sony xperia on detail page is : $100.00
+05:48:04.837 [main] INFO  guru99.websiteTest.MobilePriceTest - price of sony xperia is same on mobile page and details page
+05:48:04.974 [main] DEBUG guru99.websiteTest.MobilePriceTest - browser is closed successfully
+05:49:27.939 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+05:49:48.298 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on mobile menu
+05:49:48.724 [main] DEBUG guru99.websiteTest.MobilePriceTest - browser is closed successfully
+05:50:04.943 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+05:50:16.103 [main] INFO  guru99.websiteTest.MobilePriceTest - price of sony Xperia on mobile page is : $100.00
+05:50:16.245 [main] DEBUG guru99.websiteTest.MobilePriceTest - browser is closed successfully
+05:50:35.146 [main] INFO  guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+05:50:54.701 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on sony Xperia mobile
+05:50:54.732 [main] INFO  guru99.websiteTest.MobilePriceTest - price of sony xperia on detail page is : $100.00
+05:50:54.734 [main] INFO  guru99.websiteTest.MobilePriceTest - price of sony xperia is same on mobile page and details page
+05:50:54.845 [main] DEBUG guru99.websiteTest.MobilePriceTest - browser is closed successfully
+14:09:58.315 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:09:58.357 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:10:09.626 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on mobile menu
+14:10:09.901 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:10:20.348 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:10:20.349 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:11:02.397 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:11:15.303 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:11:15.303 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:11:28.740 [main] INFO  guru99.websiteTest.MobilePriceTest - changed mobile quantity from 1 to 100
+14:11:28.740 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on update button
+14:11:28.866 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:11:48.519 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:11:48.520 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:12:03.134 [main] INFO  guru99.websiteTest.MobilePriceTest - verifying error message
+14:12:03.311 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:12:15.627 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:12:15.627 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:12:32.306 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on empty cart button
+14:12:32.447 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:23:15.718 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:23:15.748 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:23:32.228 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on mobile menu
+14:23:32.455 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:23:44.456 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:23:44.457 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:23:56.273 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on mobile menu
+14:23:56.579 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:24:04.370 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:24:04.370 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:24:36.116 [main] INFO  guru99.websiteTest.MobilePriceTest - changed mobile quantity from 1 to 100
+14:24:36.117 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on update button
+14:24:36.235 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:24:44.228 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:24:44.228 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:24:53.754 [main] INFO  guru99.websiteTest.MobilePriceTest - verifying error message is Sony Xperia was added to your shopping cart.
+14:24:54.488 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:25:01.764 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:25:01.765 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:25:11.983 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on empty cart button
+14:25:42.508 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:32:11.786 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:32:11.829 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:32:27.479 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on mobile menu
+14:32:30.121 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:35:41.266 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:35:42.041 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:36:00.936 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on mobile menu
+14:36:01.890 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:36:18.254 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:36:18.254 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:36:33.672 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on mobile menu
+14:36:33.801 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:37:03.068 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:37:03.069 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:37:24.238 [main] INFO  guru99.websiteTest.MobilePriceTest - changed mobile quantity from 1 to 100
+14:37:24.238 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on update button
+14:37:24.291 [main] INFO  guru99.websiteTest.MobilePriceTest - verifying error message is Sony Xperia was added to your shopping cart.

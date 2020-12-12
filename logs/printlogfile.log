@@ -1,0 +1,184 @@
+14:37:24.942 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+14:37:41.750 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser has started Successfully
+14:37:41.750 [main] DEBUG guru99.websiteTest.MobilePriceTest - Webpage has maximized
+14:37:57.513 [main] INFO  guru99.websiteTest.MobilePriceTest - clicked on empty cart button
+14:38:13.263 [main] DEBUG guru99.websiteTest.MobilePriceTest - Browser closed successfully
+15:15:16.079 [main] DEBUG guru99.base.BaseTest - Browser has started Successfully
+15:15:16.157 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+15:15:29.469 [main] INFO  guru99.base.BaseTest - clicked on mobile menu
+15:15:29.792 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+15:15:49.013 [main] DEBUG guru99.base.BaseTest - Browser has started Successfully
+15:15:49.013 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+15:16:05.599 [main] INFO  guru99.base.BaseTest - clicked on add to cart button
+15:16:05.699 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+15:16:29.540 [main] DEBUG guru99.base.BaseTest - Browser has started Successfully
+15:16:29.540 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+15:16:47.028 [main] INFO  guru99.base.BaseTest - clicked on mobile menu
+15:16:49.663 [main] INFO  guru99.base.BaseTest - clicked on add to cart button
+15:16:50.105 [main] INFO  guru99.base.BaseTest - changed mobile quantity from 1 to 100
+15:16:50.162 [main] INFO  guru99.base.BaseTest - clicked on update button
+15:16:50.197 [main] INFO  guru99.base.BaseTest - verifying error message is Sony Xperia was added to your shopping cart.
+15:16:50.371 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+15:17:04.345 [main] DEBUG guru99.base.BaseTest - Browser has started Successfully
+15:17:04.345 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+15:17:11.412 [main] INFO  guru99.base.BaseTest - clicked on mobile menu
+15:17:13.857 [main] INFO  guru99.base.BaseTest - clicked on add to cart button
+15:17:14.052 [main] INFO  guru99.base.BaseTest - changed mobile quantity from 1 to 100
+15:17:14.109 [main] INFO  guru99.base.BaseTest - clicked on update button
+15:17:14.165 [main] INFO  guru99.base.BaseTest - clicked on empty cart button
+15:17:29.487 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+15:37:51.689 [main] DEBUG guru99.base.BaseTest - ie Browser has started Successfully
+18:06:00.930 [main] DEBUG guru99.base.BaseTest - ie Browser has started Successfully
+18:06:19.144 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+18:06:24.675 [main] INFO  guru99.base.BaseTest - clicked on mobile menu
+18:06:25.051 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+18:06:29.042 [main] DEBUG guru99.base.BaseTest - ie Browser has started Successfully
+18:06:31.581 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+18:06:36.859 [main] INFO  guru99.base.BaseTest - clicked on add to cart button
+18:06:36.990 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+18:06:40.015 [main] DEBUG guru99.base.BaseTest - ie Browser has started Successfully
+18:06:44.023 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+18:06:49.931 [main] INFO  guru99.base.BaseTest - clicked on mobile menu
+18:06:56.415 [main] INFO  guru99.base.BaseTest - clicked on add to cart button
+18:07:18.544 [main] INFO  guru99.base.BaseTest - changed mobile quantity from 1 to 100
+18:07:19.524 [main] INFO  guru99.base.BaseTest - clicked on update button
+18:07:19.937 [main] INFO  guru99.base.BaseTest - verifying error message is Sony Xperia was added to your shopping cart.
+18:07:20.175 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+18:07:23.650 [main] DEBUG guru99.base.BaseTest - ie Browser has started Successfully
+18:07:31.352 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+18:07:36.150 [main] INFO  guru99.base.BaseTest - clicked on mobile menu
+18:07:41.478 [main] INFO  guru99.base.BaseTest - clicked on add to cart button
+18:08:02.803 [main] INFO  guru99.base.BaseTest - changed mobile quantity from 1 to 100
+18:08:03.599 [main] INFO  guru99.base.BaseTest - clicked on update button
+18:08:04.716 [main] INFO  guru99.base.BaseTest - clicked on empty cart button
+18:08:22.118 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+19:33:58.409 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+19:36:25.017 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+19:36:34.794 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+19:38:40.757 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+19:41:47.257 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+19:42:04.016 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+19:49:34.564 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+19:49:43.096 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+19:49:56.366 [main] INFO  guru99.base.BaseTest - clicked on mobile menu
+19:49:56.721 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+19:50:02.547 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+19:56:31.701 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+19:56:49.649 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+19:56:59.473 [main] INFO  guru99.base.BaseTest - clicked on mobile menu
+19:56:59.971 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+19:57:07.956 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+19:57:21.830 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+19:57:42.712 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+19:57:50.478 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+19:57:57.530 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+19:58:12.264 [main] INFO  guru99.base.BaseTest - clicked on mobile menu
+19:58:15.832 [main] INFO  guru99.base.BaseTest - clicked on add to cart button
+19:58:16.694 [main] INFO  guru99.base.BaseTest - changed mobile quantity from 1 to 100
+19:58:16.751 [main] INFO  guru99.base.BaseTest - clicked on update button
+19:58:16.815 [main] INFO  guru99.base.BaseTest - verifying error message is Sony Xperia was added to your shopping cart.
+19:58:19.864 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+19:58:34.451 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+19:58:43.326 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+19:58:46.848 [main] INFO  guru99.base.BaseTest - clicked on mobile menu
+19:58:50.168 [main] INFO  guru99.base.BaseTest - clicked on add to cart button
+19:58:50.396 [main] INFO  guru99.base.BaseTest - changed mobile quantity from 1 to 100
+19:58:50.467 [main] INFO  guru99.base.BaseTest - clicked on update button
+19:58:50.516 [main] INFO  guru99.base.BaseTest - clicked on empty cart button
+19:59:08.299 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+20:17:26.854 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:17:34.767 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+20:17:43.085 [main] INFO  guru99.base.BaseTest - clicked on mobile menu
+20:17:43.546 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+20:17:52.120 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:17:57.946 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+20:18:11.059 [main] INFO  guru99.base.BaseTest - clicked on add to cart button
+20:18:11.215 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+20:18:20.464 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:18:30.003 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+20:18:50.980 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+20:19:07.172 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:19:15.454 [main] DEBUG guru99.base.BaseTest - Webpage has maximized
+20:19:27.315 [main] INFO  guru99.base.BaseTest - clicked on mobile menu
+20:19:30.335 [main] INFO  guru99.base.BaseTest - clicked on add to cart button
+20:19:30.564 [main] INFO  guru99.base.BaseTest - changed mobile quantity from 1 to 100
+20:19:30.629 [main] INFO  guru99.base.BaseTest - clicked on update button
+20:19:30.688 [main] INFO  guru99.base.BaseTest - clicked on empty cart button
+20:19:48.235 [main] DEBUG guru99.base.BaseTest - Browser closed successfully
+20:32:07.815 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:32:15.521 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+20:32:15.521 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+20:32:34.712 [main] DEBUG guru99.websiteTest.MobileSortingTest - Vefified the page title
+20:32:35.568 [main] INFO  guru99.websiteTest.MobileSortingTest - Web Browser closed
+20:32:44.977 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:32:54.592 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+20:32:54.592 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+20:33:09.483 [main] INFO  guru99.websiteTest.MobileSortingTest - clicked on mobile menu
+20:33:09.731 [main] INFO  guru99.websiteTest.MobileSortingTest - Web Browser closed
+20:33:16.440 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:33:24.129 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+20:33:24.129 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+20:33:43.742 [main] INFO  guru99.websiteTest.MobileSortingTest - Title of the page Mobile
+20:33:43.854 [main] INFO  guru99.websiteTest.MobileSortingTest - Web Browser closed
+20:34:00.238 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:41:43.787 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:41:55.774 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+20:41:55.774 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+20:42:15.451 [main] DEBUG guru99.websiteTest.MobileSortingTest - Vefified the page title
+20:45:38.844 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:45:47.051 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+20:45:47.052 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+20:48:01.156 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:48:14.243 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+20:48:14.243 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+20:51:14.010 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:54:10.360 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:57:23.130 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+20:57:35.385 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+20:57:35.386 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+21:26:18.918 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+21:26:32.696 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+21:26:32.696 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+21:28:17.376 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+21:28:31.756 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+21:28:31.756 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+21:34:54.561 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+21:35:29.668 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+21:35:29.668 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+21:35:57.791 [main] DEBUG guru99.websiteTest.MobileSortingTest - Vefified the page title
+21:35:59.180 [main] INFO  guru99.websiteTest.MobileSortingTest - Web Browser closed
+21:36:06.338 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+21:36:17.341 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+21:36:17.341 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+21:37:01.860 [main] INFO  guru99.websiteTest.MobileSortingTest - clicked on mobile menu
+21:37:01.999 [main] INFO  guru99.websiteTest.MobileSortingTest - Web Browser closed
+21:37:10.034 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+10:51:24.871 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+10:51:29.924 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+10:51:29.925 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+10:51:46.066 [main] DEBUG guru99.websiteTest.MobileSortingTest - Vefified the page title
+10:51:47.515 [main] INFO  guru99.websiteTest.MobileSortingTest - Web Browser closed
+10:51:55.200 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+10:52:01.944 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+10:52:01.944 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+10:52:16.920 [main] INFO  guru99.websiteTest.MobileSortingTest - clicked on mobile menu
+10:52:17.151 [main] INFO  guru99.websiteTest.MobileSortingTest - Web Browser closed
+10:52:23.202 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+10:52:27.697 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+10:52:27.697 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+10:52:38.937 [main] INFO  guru99.websiteTest.MobileSortingTest - Title of the page Mobile
+10:52:39.128 [main] INFO  guru99.websiteTest.MobileSortingTest - Web Browser closed
+10:52:45.020 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+10:52:50.650 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+10:52:50.651 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+10:53:03.645 [main] INFO  guru99.websiteTest.MobileSortingTest - mobiles are sorted by name
+10:53:03.977 [main] INFO  guru99.websiteTest.MobileSortingTest - Screenshot has been taken
+10:53:04.088 [main] INFO  guru99.websiteTest.MobileSortingTest - Web Browser closed
+11:01:17.469 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+11:01:24.311 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+11:01:24.311 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+11:02:00.180 [main] DEBUG guru99.websiteTest.MobileSortingTest - Vefified the page title
+11:07:16.605 [main] DEBUG guru99.base.BaseTest - chrome Browser has started Successfully
+11:07:23.081 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web Browser has started
+11:07:23.081 [main] DEBUG guru99.websiteTest.MobileSortingTest - Web page got maximized
+11:07:38.305 [main] DEBUG guru99.websiteTest.MobileSortingTest - Vefified the page title
